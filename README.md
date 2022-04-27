@@ -1,6 +1,6 @@
 ### Installation
 
-git clone 
+git clone git@github.com:vperminov/redpanda.git
 
 cd redpanda
 
